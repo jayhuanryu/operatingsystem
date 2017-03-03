@@ -1,0 +1,108 @@
+loadi  0 1    
+read   1       
+call   6       
+load   0 33    
+write  0
+halt
+compri 1 1     
+jumpe  14      
+jumpl  14      
+call   16      
+load   0 34    
+subi   1 1     
+call   6       
+load   0 33
+store  0 33    
+return
+loadi  2 8     
+loadi  3 0     
+shr    1       
+store  2 35    
+getstat 2              
+andi   2 1
+compri 2 1
+jumpe  25      
+jump   26      
+add    3 0
+shl    0       
+load   2 35    
+subi   2 1             
+compri 2 0     
+jumpg  18
+store  3 34    
+return
+noop           
+noop           
+noop     
+loadi  0 1    
+read   1       
+call   6       
+load   0 33    
+write  0
+halt
+compri 1 1     
+jumpe  14      
+jumpl  14      
+call   16      
+load   0 34    
+subi   1 1     
+call   6       
+load   0 33
+store  0 33    
+return
+loadi  2 8     
+loadi  3 0     
+shr    1       
+store  2 35    
+getstat 2              
+andi   2 1
+compri 2 1
+jumpe  25      
+jump   26      
+add    3 0
+shl    0       
+load   2 35    
+subi   2 1             
+compri 2 0     
+jumpg  18
+store  3 34    
+return
+noop           
+noop           
+noop     
+loadi  0 0   
+compri 0 6   
+jumpe  9     
+read   1
+read   2
+add    1 2
+write  1
+addi   0 1   
+jump   1     
+halt
+read   0
+loadi  1 -2
+add    0 1
+write  0
+halt
+loadi  0 1   
+loadi  1 0   
+read   2
+compr  0 2
+jumpe  8     
+add    1 0   
+addi   0 1   
+jump   3     
+write  1
+halt
+loadi  0 1   
+loadi  1 0   
+read   2
+compr  0 2
+jumpe  8     
+add    1 0   
+addi   0 1   
+jump   3     
+write  1
+halt
+

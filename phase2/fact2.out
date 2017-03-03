@@ -1,0 +1,12 @@
+Register value: 51200
+passed
+Process Accounting Data:
+CPU Time = 220 cycles
+Waiting Time = 3246 cycles
+Turnaround Time = 4273 cycles
+I/O Time = 81 cycles
+Largest Stack Size = 12
+System Accounting Data: 
+System Time = 1031 cycles
+System CPU Utilization(%) = 98.781
+User CPU Utilization(%) = 77.5577

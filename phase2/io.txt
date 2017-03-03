@@ -1,0 +1,5 @@
+Register value: 5
+Register value: 21
+Register value: 11
+Register value: 0
+passed

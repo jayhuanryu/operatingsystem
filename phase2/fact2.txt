@@ -1,0 +1,5 @@
+Register value: 51200
+Register value: 0
+Register value: 0
+Register value: 0
+passed

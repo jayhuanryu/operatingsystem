@@ -1,0 +1,19634 @@
+0
+0
+256
+1
+0
+0
+0
+33
+26624
+512
+256
+1
+0
+0
+0
+34
+8192
+512
+256
+1
+0
+0
+0
+33
+2048
+0
+256
+33
+0
+1024
+256
+8
+0
+1536
+256
+0
+2048
+1024
+256
+35
+12288
+1024
+256
+1
+26624
+1024
+256
+1
+0
+1024
+0
+35
+8192
+1024
+256
+1
+26624
+1024
+256
+0
+2048
+1536
+256
+34
+0
+0
+256
+1
+0
+0
+0
+33
+26624
+512
+256
+1
+0
+0
+0
+34
+8192
+512
+256
+1
+0
+0
+0
+33
+2048
+0
+256
+33
+0
+1024
+256
+8
+0
+1536
+256
+0
+2048
+1024
+256
+35
+12288
+1024
+256
+1
+26624
+1024
+256
+1
+0
+1024
+0
+35
+8192
+1024
+256
+1
+26624
+1024
+256
+0
+2048
+1536
+256
+34
+0
+0
+256
+0
+26624
+0
+256
+6
+4096
+0
+256
+1
+0
+512
+256
+254
+0
+0
+256
+1
+0
+512
+256
+0
+4096
+0
+256
+1
+0
+0
+256
+1
+0
+512
+256
+0
+4096
+0
+256
+1
+		removing progs
+
+
+ pc = 0
+object code is 257
+OP0
+RD0
+I1
+ADDR1
+RS0
+rd 0 addr 1value1
+loadi1 45568
+instruction passed
+ pc = 1
+object code is 45568
+OP22
+RD1
+I0
+ADDR0
+RS0
+read sucessful
+r[RD] 6
+instruction passed
+ pc = 36
+object code is 257
+OP0
+RD0
+I1
+ADDR1
+RS0
+rd 0 addr 1value1
+loadi1 45568
+instruction passed
+ pc = 37
+object code is 45568
+OP22
+RD1
+I0
+ADDR0
+RS0
+read sucessful
+r[RD] 8
+instruction passed
+ pc = 72
+object code is 256
+OP0
+RD0
+I1
+ADDR0
+RS0
+rd 0 addr 0value0
+loadi0 257
+instruction passed
+ pc = 73
+object code is 26886
+OP13
+RD0
+I1
+ADDR6
+RS0
+compri0 8
+instruction passed
+ pc = 74
+object code is 36873
+OP18
+RD0
+I0
+ADDR9
+RS0
+jumpe75 9
+instruction passed
+ pc = 75
+object code is 45568
+OP22
+RD1
+I0
+ADDR0
+RS0
+read sucessful
+r[RD] 0
+instruction passed
+ pc = 82
+object code is 45056
+OP22
+RD0
+I0
+ADDR0
+RS0
+read sucessful
+r[RD] 5
+instruction passed
+ pc = 87
+object code is 257
+OP0
+RD0
+I1
+ADDR1
+RS0
+rd 0 addr 1value1
+loadi1 45568
+instruction passed
+ pc = 88
+object code is 768
+OP0
+RD1
+I1
+ADDR0
+RS0
+rd 1 addr 0value0
+loadi0 257
+instruction passed
+ pc = 89
+object code is 46080
+OP22
+RD2
+I0
+ADDR0
+RS0
+read sucessful
+r[RD] 50
+instruction passed
+ pc = 97
+object code is 257
+OP0
+RD0
+I1
+ADDR1
+RS0
+rd 0 addr 1value1
+loadi1 45568
+instruction passed
+ pc = 98
+object code is 768
+OP0
+RD1
+I1
+ADDR0
+RS0
+rd 1 addr 0value0
+loadi0 257
+instruction passed
+ pc = 99
+object code is 46080
+OP22
+RD2
+I0
+ADDR0
+RS0
+read sucessful
+r[RD] 101
+instruction passed
+ pc = 2
+object code is 40966
+OP20
+RD0
+I0
+ADDR6
+RS0
+call passed 
+call6 250
+instruction passed
+ pc = 6
+object code is 27393
+OP13
+RD1
+I1
+ADDR1
+RS0
+compri6 2
+instruction passed
+ pc = 7
+object code is 36878
+OP18
+RD0
+I0
+ADDR14
+RS0
+jumpe8 14
+instruction passed
+ pc = 8
+object code is 34830
+OP17
+RD0
+I0
+ADDR14
+RS0
+jumpl9 14
+instruction passed
+ pc = 9
+object code is 40976
+OP20
+RD0
+I0
+ADDR16
+RS0
+call passed 
+call16 244
+instruction passed
+ pc = 16
+object code is 1288
+OP0
+RD2
+I1
+ADDR8
+RS0
+rd 2 addr 8value8
+loadi8 34830
+instruction passed
+ pc = 17
+object code is 1792
+OP0
+RD3
+I1
+ADDR0
+RS0
+rd 3 addr 0value0
+loadi0 257
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr3
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store8 8
+instruction passed
+ pc = 38
+object code is 40966
+OP20
+RD0
+I0
+ADDR6
+RS0
+call passed 
+call42 250
+instruction passed
+ pc = 42
+object code is 27393
+OP13
+RD1
+I1
+ADDR1
+RS0
+compri8 2
+instruction passed
+ pc = 43
+object code is 36878
+OP18
+RD0
+I0
+ADDR14
+RS0
+jumpe44 14
+instruction passed
+ pc = 44
+object code is 34830
+OP17
+RD0
+I0
+ADDR14
+RS0
+jumpl45 14
+instruction passed
+ pc = 45
+object code is 40976
+OP20
+RD0
+I0
+ADDR16
+RS0
+call passed 
+call52 244
+instruction passed
+ pc = 52
+object code is 1288
+OP0
+RD2
+I1
+ADDR8
+RS0
+rd 2 addr 8value8
+loadi8 34830
+instruction passed
+ pc = 53
+object code is 1792
+OP0
+RD3
+I1
+ADDR0
+RS0
+rd 3 addr 0value0
+loadi0 257
+instruction passed
+ pc = 54
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr4
+instruction passed
+ pc = 55
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store8 8
+instruction passed
+ pc = 76
+object code is 46080
+OP22
+RD2
+I0
+ADDR0
+RS0
+read sucessful
+r[RD] 0
+instruction passed
+ pc = 83
+object code is 1022
+OP0
+RD1
+I1
+ADDR254
+RS3
+rd 1 addr -2value-2
+loadi-2 1041
+instruction passed
+ pc = 84
+object code is 4160
+OP2
+RD0
+I0
+ADDR64
+RS1
+add3 -2
+instruction passed
+ pc = 85
+object code is 47104
+OP23
+RD0
+I0
+ADDR0
+RS0
+instruction passed
+ pc = 90
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr1 50
+instruction passed
+ pc = 91
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe92 8
+instruction passed
+ pc = 92
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add1 1
+instruction passed
+ pc = 93
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi2 45568
+instruction passed
+ pc = 94
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 90
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr2 50
+instruction passed
+ pc = 91
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe92 8
+instruction passed
+ pc = 92
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add3 2
+instruction passed
+ pc = 93
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi3 45568
+instruction passed
+ pc = 94
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 90
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr3 50
+instruction passed
+ pc = 91
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe92 8
+instruction passed
+ pc = 92
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add6 3
+instruction passed
+ pc = 93
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi4 45568
+instruction passed
+ pc = 94
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 90
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr4 50
+instruction passed
+ pc = 91
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe92 8
+instruction passed
+ pc = 92
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add10 4
+instruction passed
+ pc = 93
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi5 45568
+instruction passed
+ pc = 94
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr1 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add1 1
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi2 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr2 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add3 2
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi3 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr3 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add6 3
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi4 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr4 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add10 4
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi5 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe24 25
+instruction passed
+ pc = 24
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl2
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load8 8
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi7 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri7 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr1
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store7 7
+instruction passed
+ pc = 56
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 57
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 58
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 59
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe60 25
+instruction passed
+ pc = 60
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 62
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl2
+instruction passed
+ pc = 63
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load8 7
+instruction passed
+ pc = 64
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi7 45568
+instruction passed
+ pc = 65
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri7 2
+instruction passed
+ pc = 66
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg54 18
+instruction passed
+ pc = 54
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr2
+instruction passed
+ pc = 55
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store7 7
+instruction passed
+ pc = 77
+object code is 4736
+OP2
+RD1
+I0
+ADDR128
+RS2
+add0 0
+instruction passed
+ pc = 78
+object code is 47616
+OP23
+RD1
+I0
+ADDR0
+RS0
+instruction passed
+ pc = 86
+object code is 49152
+OP24
+RD0
+I0
+ADDR0
+RS0
+halt called exit...
+ pc = 90
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr5 50
+instruction passed
+ pc = 91
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe92 8
+instruction passed
+ pc = 92
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add15 5
+instruction passed
+ pc = 93
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi6 45568
+instruction passed
+ pc = 94
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 90
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr6 50
+instruction passed
+ pc = 91
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe92 8
+instruction passed
+ pc = 92
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add21 6
+instruction passed
+ pc = 93
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi7 45568
+instruction passed
+ pc = 94
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 90
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr7 50
+instruction passed
+ pc = 91
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe92 8
+instruction passed
+ pc = 92
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add28 7
+instruction passed
+ pc = 93
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi8 45568
+instruction passed
+ pc = 94
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 90
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr8 50
+instruction passed
+ pc = 91
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe92 8
+instruction passed
+ pc = 92
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add36 8
+instruction passed
+ pc = 93
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi9 45568
+instruction passed
+ pc = 94
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr5 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add15 5
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi6 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr6 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add21 6
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi7 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr7 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add28 7
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi8 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr8 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add36 8
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi9 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat3 3
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi1 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri1 5
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe25 25
+instruction passed
+ pc = 25
+object code is 5632
+OP2
+RD3
+I0
+ADDR0
+RS0
+add2 2
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl4
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load7 7
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi6 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri6 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store6 6
+instruction passed
+ pc = 56
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 57
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 58
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 59
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe60 25
+instruction passed
+ pc = 60
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 62
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl4
+instruction passed
+ pc = 63
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load7 6
+instruction passed
+ pc = 64
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi6 45568
+instruction passed
+ pc = 65
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri6 2
+instruction passed
+ pc = 66
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg54 18
+instruction passed
+ pc = 54
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr1
+instruction passed
+ pc = 55
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store6 6
+instruction passed
+ pc = 79
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi1 45568
+instruction passed
+ pc = 80
+object code is 32769
+OP16
+RD0
+I0
+ADDR1
+RS0
+jump1
+instruction passed
+ pc = 73
+object code is 26886
+OP13
+RD0
+I1
+ADDR6
+RS0
+compri1 8
+instruction passed
+ pc = 74
+object code is 36873
+OP18
+RD0
+I0
+ADDR9
+RS0
+jumpe75 9
+instruction passed
+ pc = 75
+object code is 45568
+OP22
+RD1
+I0
+ADDR0
+RS0
+read sucessful
+r[RD] 0
+instruction passed
+ pc = 90
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr9 50
+instruction passed
+ pc = 91
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe92 8
+instruction passed
+ pc = 92
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add45 9
+instruction passed
+ pc = 93
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi10 45568
+instruction passed
+ pc = 94
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 90
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr10 50
+instruction passed
+ pc = 91
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe92 8
+instruction passed
+ pc = 92
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add55 10
+instruction passed
+ pc = 93
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi11 45568
+instruction passed
+ pc = 94
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 90
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr11 50
+instruction passed
+ pc = 91
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe92 8
+instruction passed
+ pc = 92
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add66 11
+instruction passed
+ pc = 93
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi12 45568
+instruction passed
+ pc = 94
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 90
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr12 50
+instruction passed
+ pc = 91
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe92 8
+instruction passed
+ pc = 92
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add78 12
+instruction passed
+ pc = 93
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi13 45568
+instruction passed
+ pc = 94
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr9 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add45 9
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi10 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr10 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add55 10
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi11 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr11 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add66 11
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi12 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr12 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add78 12
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi13 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat3 3
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi1 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri1 5
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe25 25
+instruction passed
+ pc = 25
+object code is 5632
+OP2
+RD3
+I0
+ADDR0
+RS0
+add6 4
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl8
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load6 6
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi5 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri5 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store5 5
+instruction passed
+ pc = 56
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 57
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 58
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 59
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe60 25
+instruction passed
+ pc = 60
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 62
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl8
+instruction passed
+ pc = 63
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load6 5
+instruction passed
+ pc = 64
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi5 45568
+instruction passed
+ pc = 65
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri5 2
+instruction passed
+ pc = 66
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg54 18
+instruction passed
+ pc = 54
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 55
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store5 5
+instruction passed
+ pc = 76
+object code is 46080
+OP22
+RD2
+I0
+ADDR0
+RS0
+read sucessful
+r[RD] 0
+instruction passed
+ pc = 90
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr13 50
+instruction passed
+ pc = 91
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe92 8
+instruction passed
+ pc = 92
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add91 13
+instruction passed
+ pc = 93
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi14 45568
+instruction passed
+ pc = 94
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 90
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr14 50
+instruction passed
+ pc = 91
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe92 8
+instruction passed
+ pc = 92
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add105 14
+instruction passed
+ pc = 93
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi15 45568
+instruction passed
+ pc = 94
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 90
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr15 50
+instruction passed
+ pc = 91
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe92 8
+instruction passed
+ pc = 92
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add120 15
+instruction passed
+ pc = 93
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi16 45568
+instruction passed
+ pc = 94
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 90
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr16 50
+instruction passed
+ pc = 91
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe92 8
+instruction passed
+ pc = 92
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add136 16
+instruction passed
+ pc = 93
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi17 45568
+instruction passed
+ pc = 94
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr13 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add91 13
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi14 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr14 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add105 14
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi15 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr15 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add120 15
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi16 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr16 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add136 16
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi17 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe24 25
+instruction passed
+ pc = 24
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl16
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load5 5
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi4 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri4 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store4 4
+instruction passed
+ pc = 56
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat3 3
+instruction passed
+ pc = 57
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi1 1
+instruction passed
+ pc = 58
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri1 5
+instruction passed
+ pc = 59
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe61 25
+instruction passed
+ pc = 61
+object code is 5632
+OP2
+RD3
+I0
+ADDR0
+RS0
+add8 8
+instruction passed
+ pc = 62
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl16
+instruction passed
+ pc = 63
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load5 4
+instruction passed
+ pc = 64
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi4 45568
+instruction passed
+ pc = 65
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri4 2
+instruction passed
+ pc = 66
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg54 18
+instruction passed
+ pc = 54
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 55
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store4 4
+instruction passed
+ pc = 77
+object code is 4736
+OP2
+RD1
+I0
+ADDR128
+RS2
+add0 0
+instruction passed
+ pc = 78
+object code is 47616
+OP23
+RD1
+I0
+ADDR0
+RS0
+instruction passed
+ pc = 90
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr17 50
+instruction passed
+ pc = 91
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe92 8
+instruction passed
+ pc = 92
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add153 17
+instruction passed
+ pc = 93
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi18 45568
+instruction passed
+ pc = 94
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 90
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr18 50
+instruction passed
+ pc = 91
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe92 8
+instruction passed
+ pc = 92
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add171 18
+instruction passed
+ pc = 93
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi19 45568
+instruction passed
+ pc = 94
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 90
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr19 50
+instruction passed
+ pc = 91
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe92 8
+instruction passed
+ pc = 92
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add190 19
+instruction passed
+ pc = 93
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi20 45568
+instruction passed
+ pc = 94
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 90
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr20 50
+instruction passed
+ pc = 91
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe92 8
+instruction passed
+ pc = 92
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add210 20
+instruction passed
+ pc = 93
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi21 45568
+instruction passed
+ pc = 94
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr17 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add153 17
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi18 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr18 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add171 18
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi19 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr19 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add190 19
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi20 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr20 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add210 20
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi21 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe24 25
+instruction passed
+ pc = 24
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl32
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load4 4
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi3 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri3 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store3 3
+instruction passed
+ pc = 56
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 57
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 58
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 59
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe60 25
+instruction passed
+ pc = 60
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 62
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl32
+instruction passed
+ pc = 63
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load4 3
+instruction passed
+ pc = 64
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi3 45568
+instruction passed
+ pc = 65
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri3 2
+instruction passed
+ pc = 66
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg54 18
+instruction passed
+ pc = 54
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 55
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store3 3
+instruction passed
+ pc = 79
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi2 45568
+instruction passed
+ pc = 80
+object code is 32769
+OP16
+RD0
+I0
+ADDR1
+RS0
+jump1
+instruction passed
+ pc = 73
+object code is 26886
+OP13
+RD0
+I1
+ADDR6
+RS0
+compri2 8
+instruction passed
+ pc = 74
+object code is 36873
+OP18
+RD0
+I0
+ADDR9
+RS0
+jumpe75 9
+instruction passed
+ pc = 75
+object code is 45568
+OP22
+RD1
+I0
+ADDR0
+RS0
+read sucessful
+r[RD] 0
+instruction passed
+ pc = 90
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr21 50
+instruction passed
+ pc = 91
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe92 8
+instruction passed
+ pc = 92
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add231 21
+instruction passed
+ pc = 93
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi22 45568
+instruction passed
+ pc = 94
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 90
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr22 50
+instruction passed
+ pc = 91
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe92 8
+instruction passed
+ pc = 92
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add253 22
+instruction passed
+ pc = 93
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi23 45568
+instruction passed
+ pc = 94
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 90
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr23 50
+instruction passed
+ pc = 91
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe92 8
+instruction passed
+ pc = 92
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add276 23
+instruction passed
+ pc = 93
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi24 45568
+instruction passed
+ pc = 94
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 90
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr24 50
+instruction passed
+ pc = 91
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe92 8
+instruction passed
+ pc = 92
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add300 24
+instruction passed
+ pc = 93
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi25 45568
+instruction passed
+ pc = 94
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr21 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add231 21
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi22 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr22 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add253 22
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi23 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr23 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add276 23
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi24 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr24 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add300 24
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi25 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe24 25
+instruction passed
+ pc = 24
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl64
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load3 3
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi2 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri2 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store2 2
+instruction passed
+ pc = 56
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 57
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 58
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 59
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe60 25
+instruction passed
+ pc = 60
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 62
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl64
+instruction passed
+ pc = 63
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load3 2
+instruction passed
+ pc = 64
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi2 45568
+instruction passed
+ pc = 65
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri2 2
+instruction passed
+ pc = 66
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg54 18
+instruction passed
+ pc = 54
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 55
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store2 2
+instruction passed
+ pc = 76
+object code is 46080
+OP22
+RD2
+I0
+ADDR0
+RS0
+read sucessful
+r[RD] 0
+instruction passed
+ pc = 90
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr25 50
+instruction passed
+ pc = 91
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe92 8
+instruction passed
+ pc = 92
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add325 25
+instruction passed
+ pc = 93
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi26 45568
+instruction passed
+ pc = 94
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 90
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr26 50
+instruction passed
+ pc = 91
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe92 8
+instruction passed
+ pc = 92
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add351 26
+instruction passed
+ pc = 93
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi27 45568
+instruction passed
+ pc = 94
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 90
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr27 50
+instruction passed
+ pc = 91
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe92 8
+instruction passed
+ pc = 92
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add378 27
+instruction passed
+ pc = 93
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi28 45568
+instruction passed
+ pc = 94
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 90
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr28 50
+instruction passed
+ pc = 91
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe92 8
+instruction passed
+ pc = 92
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add406 28
+instruction passed
+ pc = 93
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi29 45568
+instruction passed
+ pc = 94
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr25 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add325 25
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi26 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr26 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add351 26
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi27 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr27 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add378 27
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi28 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr28 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add406 28
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi29 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe24 25
+instruction passed
+ pc = 24
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl128
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load2 2
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi1 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri1 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store1 1
+instruction passed
+ pc = 56
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 57
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 58
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 59
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe60 25
+instruction passed
+ pc = 60
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 62
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl128
+instruction passed
+ pc = 63
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load2 1
+instruction passed
+ pc = 64
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi1 45568
+instruction passed
+ pc = 65
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri1 2
+instruction passed
+ pc = 66
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg54 18
+instruction passed
+ pc = 54
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 55
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store1 1
+instruction passed
+ pc = 77
+object code is 4736
+OP2
+RD1
+I0
+ADDR128
+RS2
+add0 0
+instruction passed
+ pc = 78
+object code is 47616
+OP23
+RD1
+I0
+ADDR0
+RS0
+instruction passed
+ pc = 90
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr29 50
+instruction passed
+ pc = 91
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe92 8
+instruction passed
+ pc = 92
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add435 29
+instruction passed
+ pc = 93
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi30 45568
+instruction passed
+ pc = 94
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 90
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr30 50
+instruction passed
+ pc = 91
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe92 8
+instruction passed
+ pc = 92
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add465 30
+instruction passed
+ pc = 93
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi31 45568
+instruction passed
+ pc = 94
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 90
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr31 50
+instruction passed
+ pc = 91
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe92 8
+instruction passed
+ pc = 92
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add496 31
+instruction passed
+ pc = 93
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi32 45568
+instruction passed
+ pc = 94
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 90
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr32 50
+instruction passed
+ pc = 91
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe92 8
+instruction passed
+ pc = 92
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add528 32
+instruction passed
+ pc = 93
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi33 45568
+instruction passed
+ pc = 94
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr29 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add435 29
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi30 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr30 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add465 30
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi31 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr31 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add496 31
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi32 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr32 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add528 32
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi33 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe24 25
+instruction passed
+ pc = 24
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl256
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load1 1
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi0 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri0 4
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg31 18
+instruction passed
+ pc = 31
+object code is 3874
+OP1
+RD3
+I1
+ADDR34
+RS0
+store6 6
+instruction passed
+ pc = 32
+object code is 43008
+OP21
+RD0
+I0
+ADDR0
+RS0
+return2
+instruction passed
+ pc = 56
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 57
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 58
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 59
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe60 25
+instruction passed
+ pc = 60
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 62
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl256
+instruction passed
+ pc = 63
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load1 1
+instruction passed
+ pc = 64
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi0 45568
+instruction passed
+ pc = 65
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri0 4
+instruction passed
+ pc = 66
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg67 18
+instruction passed
+ pc = 67
+object code is 3874
+OP1
+RD3
+I1
+ADDR34
+RS0
+store8 6
+instruction passed
+ pc = 68
+object code is 43008
+OP21
+RD0
+I0
+ADDR0
+RS0
+return0
+instruction passed
+ pc = 79
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi3 45568
+instruction passed
+ pc = 80
+object code is 32769
+OP16
+RD0
+I0
+ADDR1
+RS0
+jump1
+instruction passed
+ pc = 73
+object code is 26886
+OP13
+RD0
+I1
+ADDR6
+RS0
+compri3 8
+instruction passed
+ pc = 74
+object code is 36873
+OP18
+RD0
+I0
+ADDR9
+RS0
+jumpe75 9
+instruction passed
+ pc = 75
+object code is 45568
+OP22
+RD1
+I0
+ADDR0
+RS0
+read sucessful
+r[RD] 0
+instruction passed
+ pc = 90
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr33 50
+instruction passed
+ pc = 91
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe92 8
+instruction passed
+ pc = 92
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add561 33
+instruction passed
+ pc = 93
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi34 45568
+instruction passed
+ pc = 94
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 90
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr34 50
+instruction passed
+ pc = 91
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe92 8
+instruction passed
+ pc = 92
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add595 34
+instruction passed
+ pc = 93
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi35 45568
+instruction passed
+ pc = 94
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 90
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr35 50
+instruction passed
+ pc = 91
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe92 8
+instruction passed
+ pc = 92
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add630 35
+instruction passed
+ pc = 93
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi36 45568
+instruction passed
+ pc = 94
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 90
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr36 50
+instruction passed
+ pc = 91
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe92 8
+instruction passed
+ pc = 92
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add666 36
+instruction passed
+ pc = 93
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi37 45568
+instruction passed
+ pc = 94
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr33 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add561 33
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi34 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr34 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add595 34
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi35 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr35 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add630 35
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi36 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr36 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add666 36
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi37 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 46
+object code is 34
+OP0
+RD0
+I0
+ADDR34
+RS0
+load6 6
+instruction passed
+ pc = 47
+object code is 8961
+OP4
+RD1
+I1
+ADDR1
+RS0
+subi7 45568
+instruction passed
+ pc = 48
+object code is 40966
+OP20
+RD0
+I0
+ADDR6
+RS0
+call passed 
+call6 244
+instruction passed
+ pc = 6
+object code is 27393
+OP13
+RD1
+I1
+ADDR1
+RS0
+compri7 2
+instruction passed
+ pc = 7
+object code is 36878
+OP18
+RD0
+I0
+ADDR14
+RS0
+jumpe8 14
+instruction passed
+ pc = 8
+object code is 34830
+OP17
+RD0
+I0
+ADDR14
+RS0
+jumpl9 14
+instruction passed
+ pc = 9
+object code is 40976
+OP20
+RD0
+I0
+ADDR16
+RS0
+call passed 
+call16 238
+instruction passed
+ pc = 16
+object code is 1288
+OP0
+RD2
+I1
+ADDR8
+RS0
+rd 2 addr 8value8
+loadi8 34830
+instruction passed
+ pc = 17
+object code is 1792
+OP0
+RD3
+I1
+ADDR0
+RS0
+rd 3 addr 0value0
+loadi0 257
+instruction passed
+ pc = 39
+object code is 33
+OP0
+RD0
+I0
+ADDR33
+RS0
+load51200 51200
+instruction passed
+ pc = 40
+object code is 47104
+OP23
+RD0
+I0
+ADDR0
+RS0
+instruction passed
+ pc = 76
+object code is 46080
+OP22
+RD2
+I0
+ADDR0
+RS0
+read sucessful
+r[RD] 0
+instruction passed
+ pc = 90
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr37 50
+instruction passed
+ pc = 91
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe92 8
+instruction passed
+ pc = 92
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add703 37
+instruction passed
+ pc = 93
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi38 45568
+instruction passed
+ pc = 94
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 90
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr38 50
+instruction passed
+ pc = 91
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe92 8
+instruction passed
+ pc = 92
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add741 38
+instruction passed
+ pc = 93
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi39 45568
+instruction passed
+ pc = 94
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 90
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr39 50
+instruction passed
+ pc = 91
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe92 8
+instruction passed
+ pc = 92
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add780 39
+instruction passed
+ pc = 93
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi40 45568
+instruction passed
+ pc = 94
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 90
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr40 50
+instruction passed
+ pc = 91
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe92 8
+instruction passed
+ pc = 92
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add820 40
+instruction passed
+ pc = 93
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi41 45568
+instruction passed
+ pc = 94
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr37 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add703 37
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi38 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr38 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add741 38
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi39 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr39 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add780 39
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi40 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr40 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add820 40
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi41 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr3
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store8 8
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat3 3
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi1 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri1 5
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe25 25
+instruction passed
+ pc = 25
+object code is 5632
+OP2
+RD3
+I0
+ADDR0
+RS0
+add6 6
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl12
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load8 8
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi7 45568
+instruction passed
+ pc = 41
+object code is 49152
+OP24
+RD0
+I0
+ADDR0
+RS0
+halt called exit...
+ pc = 77
+object code is 4736
+OP2
+RD1
+I0
+ADDR128
+RS2
+add0 0
+instruction passed
+ pc = 78
+object code is 47616
+OP23
+RD1
+I0
+ADDR0
+RS0
+instruction passed
+ pc = 90
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr41 50
+instruction passed
+ pc = 91
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe92 8
+instruction passed
+ pc = 92
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add861 41
+instruction passed
+ pc = 93
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi42 45568
+instruction passed
+ pc = 94
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 90
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr42 50
+instruction passed
+ pc = 91
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe92 8
+instruction passed
+ pc = 92
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add903 42
+instruction passed
+ pc = 93
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi43 45568
+instruction passed
+ pc = 94
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 90
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr43 50
+instruction passed
+ pc = 91
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe92 8
+instruction passed
+ pc = 92
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add946 43
+instruction passed
+ pc = 93
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi44 45568
+instruction passed
+ pc = 94
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 90
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr44 50
+instruction passed
+ pc = 91
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe92 8
+instruction passed
+ pc = 92
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add990 44
+instruction passed
+ pc = 93
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi45 45568
+instruction passed
+ pc = 94
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr41 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add861 41
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi42 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr42 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add903 42
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi43 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr43 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add946 43
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi44 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr44 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add990 44
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi45 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri7 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr1
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store7 7
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat3 3
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi1 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri1 5
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe25 25
+instruction passed
+ pc = 25
+object code is 5632
+OP2
+RD3
+I0
+ADDR0
+RS0
+add18 12
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl24
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load7 7
+instruction passed
+ pc = 79
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi4 45568
+instruction passed
+ pc = 80
+object code is 32769
+OP16
+RD0
+I0
+ADDR1
+RS0
+jump1
+instruction passed
+ pc = 73
+object code is 26886
+OP13
+RD0
+I1
+ADDR6
+RS0
+compri4 8
+instruction passed
+ pc = 74
+object code is 36873
+OP18
+RD0
+I0
+ADDR9
+RS0
+jumpe75 9
+instruction passed
+ pc = 75
+object code is 45568
+OP22
+RD1
+I0
+ADDR0
+RS0
+read sucessful
+r[RD] 0
+instruction passed
+ pc = 90
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr45 50
+instruction passed
+ pc = 91
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe92 8
+instruction passed
+ pc = 92
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add1035 45
+instruction passed
+ pc = 93
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi46 45568
+instruction passed
+ pc = 94
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 90
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr46 50
+instruction passed
+ pc = 91
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe92 8
+instruction passed
+ pc = 92
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add1081 46
+instruction passed
+ pc = 93
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi47 45568
+instruction passed
+ pc = 94
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 90
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr47 50
+instruction passed
+ pc = 91
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe92 8
+instruction passed
+ pc = 92
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add1128 47
+instruction passed
+ pc = 93
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi48 45568
+instruction passed
+ pc = 94
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 90
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr48 50
+instruction passed
+ pc = 91
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe92 8
+instruction passed
+ pc = 92
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add1176 48
+instruction passed
+ pc = 93
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi49 45568
+instruction passed
+ pc = 94
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr45 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add1035 45
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi46 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr46 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add1081 46
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi47 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr47 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add1128 47
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi48 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr48 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add1176 48
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi49 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi6 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri6 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store6 6
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat3 3
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi1 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri1 5
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe25 25
+instruction passed
+ pc = 25
+object code is 5632
+OP2
+RD3
+I0
+ADDR0
+RS0
+add42 24
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl48
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load6 6
+instruction passed
+ pc = 76
+object code is 46080
+OP22
+RD2
+I0
+ADDR0
+RS0
+read sucessful
+r[RD] 0
+instruction passed
+ pc = 90
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr49 50
+instruction passed
+ pc = 91
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe92 8
+instruction passed
+ pc = 92
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add1225 49
+instruction passed
+ pc = 93
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi50 45568
+instruction passed
+ pc = 94
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 90
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr50 50
+instruction passed
+ pc = 91
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe95 8
+instruction passed
+ pc = 95
+object code is 47616
+OP23
+RD1
+I0
+ADDR0
+RS0
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr49 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add1225 49
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi50 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr50 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add1275 50
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi51 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr51 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add1326 51
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi52 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr52 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add1378 52
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi53 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi5 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri5 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store5 5
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe24 25
+instruction passed
+ pc = 24
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl96
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load5 5
+instruction passed
+ pc = 77
+object code is 4736
+OP2
+RD1
+I0
+ADDR128
+RS2
+add0 0
+instruction passed
+ pc = 78
+object code is 47616
+OP23
+RD1
+I0
+ADDR0
+RS0
+instruction passed
+ pc = 96
+object code is 49152
+OP24
+RD0
+I0
+ADDR0
+RS0
+halt called exit...
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr53 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add1431 53
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi54 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr54 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add1485 54
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi55 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr55 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add1540 55
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi56 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr56 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add1596 56
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi57 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi4 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri4 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store4 4
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe24 25
+instruction passed
+ pc = 24
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl192
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load4 4
+instruction passed
+ pc = 79
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi5 45568
+instruction passed
+ pc = 80
+object code is 32769
+OP16
+RD0
+I0
+ADDR1
+RS0
+jump1
+instruction passed
+ pc = 73
+object code is 26886
+OP13
+RD0
+I1
+ADDR6
+RS0
+compri5 8
+instruction passed
+ pc = 74
+object code is 36873
+OP18
+RD0
+I0
+ADDR9
+RS0
+jumpe75 9
+instruction passed
+ pc = 75
+object code is 45568
+OP22
+RD1
+I0
+ADDR0
+RS0
+read sucessful
+r[RD] 0
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr57 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add1653 57
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi58 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr58 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add1711 58
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi59 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr59 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add1770 59
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi60 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr60 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add1830 60
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi61 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi3 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri3 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store3 3
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe24 25
+instruction passed
+ pc = 24
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl384
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load3 3
+instruction passed
+ pc = 76
+object code is 46080
+OP22
+RD2
+I0
+ADDR0
+RS0
+read sucessful
+r[RD] 0
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr61 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add1891 61
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi62 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr62 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add1953 62
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi63 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr63 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add2016 63
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi64 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr64 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add2080 64
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi65 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi2 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri2 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store2 2
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe24 25
+instruction passed
+ pc = 24
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl768
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load2 2
+instruction passed
+ pc = 77
+object code is 4736
+OP2
+RD1
+I0
+ADDR128
+RS2
+add0 0
+instruction passed
+ pc = 78
+object code is 47616
+OP23
+RD1
+I0
+ADDR0
+RS0
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr65 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add2145 65
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi66 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr66 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add2211 66
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi67 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr67 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add2278 67
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi68 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr68 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add2346 68
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi69 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi1 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri1 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store1 1
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe24 25
+instruction passed
+ pc = 24
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl1536
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load1 1
+instruction passed
+ pc = 79
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi6 45568
+instruction passed
+ pc = 80
+object code is 32769
+OP16
+RD0
+I0
+ADDR1
+RS0
+jump1
+instruction passed
+ pc = 73
+object code is 26886
+OP13
+RD0
+I1
+ADDR6
+RS0
+compri6 4
+instruction passed
+ pc = 74
+object code is 36873
+OP18
+RD0
+I0
+ADDR9
+RS0
+jumpe81 9
+instruction passed
+ pc = 81
+object code is 49152
+OP24
+RD0
+I0
+ADDR0
+RS0
+halt called exit...
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr69 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add2415 69
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi70 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr70 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add2485 70
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi71 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr71 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add2556 71
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi72 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr72 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add2628 72
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi73 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi0 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri0 4
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg31 18
+instruction passed
+ pc = 31
+object code is 3874
+OP1
+RD3
+I1
+ADDR34
+RS0
+store42 42
+instruction passed
+ pc = 32
+object code is 43008
+OP21
+RD0
+I0
+ADDR0
+RS0
+return2
+instruction passed
+ pc = 10
+object code is 34
+OP0
+RD0
+I0
+ADDR34
+RS0
+load42 42
+instruction passed
+ pc = 11
+object code is 8961
+OP4
+RD1
+I1
+ADDR1
+RS0
+subi6 45568
+instruction passed
+ pc = 12
+object code is 40966
+OP20
+RD0
+I0
+ADDR6
+RS0
+call passed 
+call6 238
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr73 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add2701 73
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi74 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr74 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add2775 74
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi75 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr75 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add2850 75
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi76 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr76 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add2926 76
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi77 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 6
+object code is 27393
+OP13
+RD1
+I1
+ADDR1
+RS0
+compri6 2
+instruction passed
+ pc = 7
+object code is 36878
+OP18
+RD0
+I0
+ADDR14
+RS0
+jumpe8 14
+instruction passed
+ pc = 8
+object code is 34830
+OP17
+RD0
+I0
+ADDR14
+RS0
+jumpl9 14
+instruction passed
+ pc = 9
+object code is 40976
+OP20
+RD0
+I0
+ADDR16
+RS0
+call passed 
+call16 232
+instruction passed
+ pc = 16
+object code is 1288
+OP0
+RD2
+I1
+ADDR8
+RS0
+rd 2 addr 8value8
+loadi8 34830
+instruction passed
+ pc = 17
+object code is 1792
+OP0
+RD3
+I1
+ADDR0
+RS0
+rd 3 addr 0value0
+loadi0 257
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr3
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store8 8
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe24 25
+instruction passed
+ pc = 24
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr77 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add3003 77
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi78 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr78 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add3081 78
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi79 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr79 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add3160 79
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi80 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr80 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add3240 80
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi81 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl84
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load8 8
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi7 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri7 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr1
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store7 7
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat3 3
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi1 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri1 5
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr81 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add3321 81
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi82 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr82 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add3403 82
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi83 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr83 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add3486 83
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi84 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr84 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add3570 84
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi85 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe25 25
+instruction passed
+ pc = 25
+object code is 5632
+OP2
+RD3
+I0
+ADDR0
+RS0
+add84 84
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl168
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load7 7
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi6 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri6 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store6 6
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat3 3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr85 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add3655 85
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi86 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr86 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add3741 86
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi87 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr87 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add3828 87
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi88 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr88 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add3916 88
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi89 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi1 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri1 5
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe25 25
+instruction passed
+ pc = 25
+object code is 5632
+OP2
+RD3
+I0
+ADDR0
+RS0
+add252 168
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl336
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load6 6
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi5 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri5 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store5 5
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr89 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add4005 89
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi90 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr90 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add4095 90
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi91 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr91 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add4186 91
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi92 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr92 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add4278 92
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi93 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe24 25
+instruction passed
+ pc = 24
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl672
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load5 5
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi4 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri4 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store4 4
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr93 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add4371 93
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi94 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr94 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add4465 94
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi95 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr95 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add4560 95
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi96 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr96 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add4656 96
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi97 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe24 25
+instruction passed
+ pc = 24
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl1344
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load4 4
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi3 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri3 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store3 3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr97 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add4753 97
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi98 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr98 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add4851 98
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi99 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr99 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add4950 99
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi100 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr100 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe102 8
+instruction passed
+ pc = 102
+object code is 4608
+OP2
+RD1
+I0
+ADDR0
+RS0
+add5050 100
+instruction passed
+ pc = 103
+object code is 4353
+OP2
+RD0
+I1
+ADDR1
+RS0
+addi101 45568
+instruction passed
+ pc = 104
+object code is 32771
+OP16
+RD0
+I0
+ADDR3
+RS0
+jump3
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe24 25
+instruction passed
+ pc = 24
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl2688
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load3 3
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi2 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri2 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store2 2
+instruction passed
+ pc = 100
+object code is 26752
+OP13
+RD0
+I0
+ADDR128
+RS2
+compr101 101
+instruction passed
+ pc = 101
+object code is 36872
+OP18
+RD0
+I0
+ADDR8
+RS0
+jumpe105 8
+instruction passed
+ pc = 105
+object code is 47616
+OP23
+RD1
+I0
+ADDR0
+RS0
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe24 25
+instruction passed
+ pc = 24
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl5376
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load2 2
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi1 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri1 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store1 1
+instruction passed
+ pc = 106
+object code is 49152
+OP24
+RD0
+I0
+ADDR0
+RS0
+halt called exit...
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe24 25
+instruction passed
+ pc = 24
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl10752
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load1 1
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi0 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri0 4
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg31 18
+instruction passed
+ pc = 31
+object code is 3874
+OP1
+RD3
+I1
+ADDR34
+RS0
+store252 252
+instruction passed
+ pc = 32
+object code is 43008
+OP21
+RD0
+I0
+ADDR0
+RS0
+return2
+instruction passed
+ pc = 10
+object code is 34
+OP0
+RD0
+I0
+ADDR34
+RS0
+load252 252
+instruction passed
+ pc = 11
+object code is 8961
+OP4
+RD1
+I1
+ADDR1
+RS0
+subi5 45568
+instruction passed
+ pc = 12
+object code is 40966
+OP20
+RD0
+I0
+ADDR6
+RS0
+call passed 
+call6 232
+instruction passed
+ pc = 6
+object code is 27393
+OP13
+RD1
+I1
+ADDR1
+RS0
+compri5 2
+instruction passed
+ pc = 7
+object code is 36878
+OP18
+RD0
+I0
+ADDR14
+RS0
+jumpe8 14
+instruction passed
+ pc = 8
+object code is 34830
+OP17
+RD0
+I0
+ADDR14
+RS0
+jumpl9 14
+instruction passed
+ pc = 9
+object code is 40976
+OP20
+RD0
+I0
+ADDR16
+RS0
+call passed 
+call16 226
+instruction passed
+ pc = 16
+object code is 1288
+OP0
+RD2
+I1
+ADDR8
+RS0
+rd 2 addr 8value8
+loadi8 34830
+instruction passed
+ pc = 17
+object code is 1792
+OP0
+RD3
+I1
+ADDR0
+RS0
+rd 3 addr 0value0
+loadi0 257
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr2
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store8 8
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat3 3
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi1 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri1 5
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe25 25
+instruction passed
+ pc = 25
+object code is 5632
+OP2
+RD3
+I0
+ADDR0
+RS0
+add252 252
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl504
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load8 8
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi7 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri7 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr1
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store7 7
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe24 25
+instruction passed
+ pc = 24
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl1008
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load7 7
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi6 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri6 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store6 6
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat3 3
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi1 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri1 5
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe25 25
+instruction passed
+ pc = 25
+object code is 5632
+OP2
+RD3
+I0
+ADDR0
+RS0
+add1260 1008
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl2016
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load6 6
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi5 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri5 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store5 5
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe24 25
+instruction passed
+ pc = 24
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl4032
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load5 5
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi4 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri4 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store4 4
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe24 25
+instruction passed
+ pc = 24
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl8064
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load4 4
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi3 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri3 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store3 3
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe24 25
+instruction passed
+ pc = 24
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl16128
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load3 3
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi2 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri2 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store2 2
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe24 25
+instruction passed
+ pc = 24
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl32256
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load2 2
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi1 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri1 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store1 1
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe24 25
+instruction passed
+ pc = 24
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl64512
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load1 1
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi0 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri0 4
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg31 18
+instruction passed
+ pc = 31
+object code is 3874
+OP1
+RD3
+I1
+ADDR34
+RS0
+store1260 1260
+instruction passed
+ pc = 32
+object code is 43008
+OP21
+RD0
+I0
+ADDR0
+RS0
+return2
+instruction passed
+ pc = 10
+object code is 34
+OP0
+RD0
+I0
+ADDR34
+RS0
+load1260 1260
+instruction passed
+ pc = 11
+object code is 8961
+OP4
+RD1
+I1
+ADDR1
+RS0
+subi4 45568
+instruction passed
+ pc = 12
+object code is 40966
+OP20
+RD0
+I0
+ADDR6
+RS0
+call passed 
+call6 226
+instruction passed
+ pc = 6
+object code is 27393
+OP13
+RD1
+I1
+ADDR1
+RS0
+compri4 2
+instruction passed
+ pc = 7
+object code is 36878
+OP18
+RD0
+I0
+ADDR14
+RS0
+jumpe8 14
+instruction passed
+ pc = 8
+object code is 34830
+OP17
+RD0
+I0
+ADDR14
+RS0
+jumpl9 14
+instruction passed
+ pc = 9
+object code is 40976
+OP20
+RD0
+I0
+ADDR16
+RS0
+call passed 
+call16 220
+instruction passed
+ pc = 16
+object code is 1288
+OP0
+RD2
+I1
+ADDR8
+RS0
+rd 2 addr 8value8
+loadi8 34830
+instruction passed
+ pc = 17
+object code is 1792
+OP0
+RD3
+I1
+ADDR0
+RS0
+rd 3 addr 0value0
+loadi0 257
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr2
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store8 8
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe24 25
+instruction passed
+ pc = 24
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl2520
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load8 8
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi7 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri7 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr1
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store7 7
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe24 25
+instruction passed
+ pc = 24
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl5040
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load7 7
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi6 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri6 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store6 6
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat3 3
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi1 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri1 5
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe25 25
+instruction passed
+ pc = 25
+object code is 5632
+OP2
+RD3
+I0
+ADDR0
+RS0
+add5040 5040
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl10080
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load6 6
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi5 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri5 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store5 5
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe24 25
+instruction passed
+ pc = 24
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl20160
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load5 5
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi4 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri4 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store4 4
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe24 25
+instruction passed
+ pc = 24
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl40320
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load4 4
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi3 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri3 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store3 3
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe24 25
+instruction passed
+ pc = 24
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl80640
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load3 3
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi2 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri2 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store2 2
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe24 25
+instruction passed
+ pc = 24
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl161280
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load2 2
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi1 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri1 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store1 1
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe24 25
+instruction passed
+ pc = 24
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl322560
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load1 1
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi0 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri0 4
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg31 18
+instruction passed
+ pc = 31
+object code is 3874
+OP1
+RD3
+I1
+ADDR34
+RS0
+store5040 5040
+instruction passed
+ pc = 32
+object code is 43008
+OP21
+RD0
+I0
+ADDR0
+RS0
+return2
+instruction passed
+ pc = 10
+object code is 34
+OP0
+RD0
+I0
+ADDR34
+RS0
+load5040 5040
+instruction passed
+ pc = 11
+object code is 8961
+OP4
+RD1
+I1
+ADDR1
+RS0
+subi3 45568
+instruction passed
+ pc = 12
+object code is 40966
+OP20
+RD0
+I0
+ADDR6
+RS0
+call passed 
+call6 220
+instruction passed
+ pc = 6
+object code is 27393
+OP13
+RD1
+I1
+ADDR1
+RS0
+compri3 2
+instruction passed
+ pc = 7
+object code is 36878
+OP18
+RD0
+I0
+ADDR14
+RS0
+jumpe8 14
+instruction passed
+ pc = 8
+object code is 34830
+OP17
+RD0
+I0
+ADDR14
+RS0
+jumpl9 14
+instruction passed
+ pc = 9
+object code is 40976
+OP20
+RD0
+I0
+ADDR16
+RS0
+call passed 
+call16 214
+instruction passed
+ pc = 16
+object code is 1288
+OP0
+RD2
+I1
+ADDR8
+RS0
+rd 2 addr 8value8
+loadi8 34830
+instruction passed
+ pc = 17
+object code is 1792
+OP0
+RD3
+I1
+ADDR0
+RS0
+rd 3 addr 0value0
+loadi0 257
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr1
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store8 8
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat3 3
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi1 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri1 5
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe25 25
+instruction passed
+ pc = 25
+object code is 5632
+OP2
+RD3
+I0
+ADDR0
+RS0
+add5040 5040
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl10080
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load8 8
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi7 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri7 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store7 7
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat3 3
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi1 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri1 5
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe25 25
+instruction passed
+ pc = 25
+object code is 5632
+OP2
+RD3
+I0
+ADDR0
+RS0
+add15120 10080
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl20160
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load7 7
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi6 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri6 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store6 6
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe24 25
+instruction passed
+ pc = 24
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl40320
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load6 6
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi5 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri5 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store5 5
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe24 25
+instruction passed
+ pc = 24
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl80640
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load5 5
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi4 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri4 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store4 4
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe24 25
+instruction passed
+ pc = 24
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl161280
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load4 4
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi3 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri3 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store3 3
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe24 25
+instruction passed
+ pc = 24
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl322560
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load3 3
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi2 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri2 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store2 2
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe24 25
+instruction passed
+ pc = 24
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl645120
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load2 2
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi1 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri1 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store1 1
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe24 25
+instruction passed
+ pc = 24
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl1290240
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load1 1
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi0 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri0 4
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg31 18
+instruction passed
+ pc = 31
+object code is 3874
+OP1
+RD3
+I1
+ADDR34
+RS0
+store15120 15120
+instruction passed
+ pc = 32
+object code is 43008
+OP21
+RD0
+I0
+ADDR0
+RS0
+return2
+instruction passed
+ pc = 10
+object code is 34
+OP0
+RD0
+I0
+ADDR34
+RS0
+load15120 15120
+instruction passed
+ pc = 11
+object code is 8961
+OP4
+RD1
+I1
+ADDR1
+RS0
+subi2 45568
+instruction passed
+ pc = 12
+object code is 40966
+OP20
+RD0
+I0
+ADDR6
+RS0
+call passed 
+call6 214
+instruction passed
+ pc = 6
+object code is 27393
+OP13
+RD1
+I1
+ADDR1
+RS0
+compri2 2
+instruction passed
+ pc = 7
+object code is 36878
+OP18
+RD0
+I0
+ADDR14
+RS0
+jumpe8 14
+instruction passed
+ pc = 8
+object code is 34830
+OP17
+RD0
+I0
+ADDR14
+RS0
+jumpl9 14
+instruction passed
+ pc = 9
+object code is 40976
+OP20
+RD0
+I0
+ADDR16
+RS0
+call passed 
+call16 208
+instruction passed
+ pc = 16
+object code is 1288
+OP0
+RD2
+I1
+ADDR8
+RS0
+rd 2 addr 8value8
+loadi8 34830
+instruction passed
+ pc = 17
+object code is 1792
+OP0
+RD3
+I1
+ADDR0
+RS0
+rd 3 addr 0value0
+loadi0 257
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr1
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store8 8
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe24 25
+instruction passed
+ pc = 24
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl30240
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load8 8
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi7 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri7 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store7 7
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat3 3
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi1 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri1 5
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe25 25
+instruction passed
+ pc = 25
+object code is 5632
+OP2
+RD3
+I0
+ADDR0
+RS0
+add30240 30240
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl60480
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load7 7
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi6 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri6 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store6 6
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe24 25
+instruction passed
+ pc = 24
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl120960
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load6 6
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi5 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri5 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store5 5
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe24 25
+instruction passed
+ pc = 24
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl241920
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load5 5
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi4 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri4 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store4 4
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe24 25
+instruction passed
+ pc = 24
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl483840
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load4 4
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi3 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri3 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store3 3
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe24 25
+instruction passed
+ pc = 24
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl967680
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load3 3
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi2 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri2 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store2 2
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe24 25
+instruction passed
+ pc = 24
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl1935360
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load2 2
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi1 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri1 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store1 1
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe24 25
+instruction passed
+ pc = 24
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl3870720
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load1 1
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi0 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri0 4
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg31 18
+instruction passed
+ pc = 31
+object code is 3874
+OP1
+RD3
+I1
+ADDR34
+RS0
+store30240 30240
+instruction passed
+ pc = 32
+object code is 43008
+OP21
+RD0
+I0
+ADDR0
+RS0
+return2
+instruction passed
+ pc = 10
+object code is 34
+OP0
+RD0
+I0
+ADDR34
+RS0
+load30240 30240
+instruction passed
+ pc = 11
+object code is 8961
+OP4
+RD1
+I1
+ADDR1
+RS0
+subi1 45568
+instruction passed
+ pc = 12
+object code is 40966
+OP20
+RD0
+I0
+ADDR6
+RS0
+call passed 
+call6 208
+instruction passed
+ pc = 6
+object code is 27393
+OP13
+RD1
+I1
+ADDR1
+RS0
+compri1 4
+instruction passed
+ pc = 7
+object code is 36878
+OP18
+RD0
+I0
+ADDR14
+RS0
+jumpe14 14
+instruction passed
+ pc = 14
+object code is 2337
+OP1
+RD0
+I1
+ADDR33
+RS0
+store30240 30240
+instruction passed
+ pc = 15
+object code is 43008
+OP21
+RD0
+I0
+ADDR0
+RS0
+return2
+instruction passed
+ pc = 13
+object code is 33
+OP0
+RD0
+I0
+ADDR33
+RS0
+load30240 30240
+instruction passed
+ pc = 14
+object code is 2337
+OP1
+RD0
+I1
+ADDR33
+RS0
+store30240 30240
+instruction passed
+ pc = 15
+object code is 43008
+OP21
+RD0
+I0
+ADDR0
+RS0
+return2
+instruction passed
+ pc = 13
+object code is 33
+OP0
+RD0
+I0
+ADDR33
+RS0
+load30240 30240
+instruction passed
+ pc = 14
+object code is 2337
+OP1
+RD0
+I1
+ADDR33
+RS0
+store30240 30240
+instruction passed
+ pc = 15
+object code is 43008
+OP21
+RD0
+I0
+ADDR0
+RS0
+return2
+instruction passed
+ pc = 13
+object code is 33
+OP0
+RD0
+I0
+ADDR33
+RS0
+load30240 30240
+instruction passed
+ pc = 14
+object code is 2337
+OP1
+RD0
+I1
+ADDR33
+RS0
+store30240 30240
+instruction passed
+ pc = 15
+object code is 43008
+OP21
+RD0
+I0
+ADDR0
+RS0
+return2
+instruction passed
+ pc = 13
+object code is 33
+OP0
+RD0
+I0
+ADDR33
+RS0
+load30240 30240
+instruction passed
+ pc = 14
+object code is 2337
+OP1
+RD0
+I1
+ADDR33
+RS0
+store30240 30240
+instruction passed
+ pc = 15
+object code is 43008
+OP21
+RD0
+I0
+ADDR0
+RS0
+return2
+instruction passed
+ pc = 13
+object code is 33
+OP0
+RD0
+I0
+ADDR33
+RS0
+load30240 30240
+instruction passed
+ pc = 14
+object code is 2337
+OP1
+RD0
+I1
+ADDR33
+RS0
+store30240 30240
+instruction passed
+ pc = 15
+object code is 43008
+OP21
+RD0
+I0
+ADDR0
+RS0
+return2
+instruction passed
+ pc = 13
+object code is 33
+OP0
+RD0
+I0
+ADDR33
+RS0
+load30240 30240
+instruction passed
+ pc = 14
+object code is 2337
+OP1
+RD0
+I1
+ADDR33
+RS0
+store30240 30240
+instruction passed
+ pc = 15
+object code is 43008
+OP21
+RD0
+I0
+ADDR0
+RS0
+return2
+instruction passed
+ pc = 49
+object code is 33
+OP0
+RD0
+I0
+ADDR33
+RS0
+load30240 30240
+instruction passed
+ pc = 50
+object code is 2337
+OP1
+RD0
+I1
+ADDR33
+RS0
+store30240 30240
+instruction passed
+ pc = 51
+object code is 43008
+OP21
+RD0
+I0
+ADDR0
+RS0
+return2
+instruction passed
+ pc = 10
+object code is 34
+OP0
+RD0
+I0
+ADDR34
+RS0
+load30240 30240
+instruction passed
+ pc = 11
+object code is 8961
+OP4
+RD1
+I1
+ADDR1
+RS0
+subi5 45568
+instruction passed
+ pc = 12
+object code is 40966
+OP20
+RD0
+I0
+ADDR6
+RS0
+call passed 
+call6 250
+instruction passed
+ pc = 6
+object code is 27393
+OP13
+RD1
+I1
+ADDR1
+RS0
+compri5 2
+instruction passed
+ pc = 7
+object code is 36878
+OP18
+RD0
+I0
+ADDR14
+RS0
+jumpe8 14
+instruction passed
+ pc = 8
+object code is 34830
+OP17
+RD0
+I0
+ADDR14
+RS0
+jumpl9 14
+instruction passed
+ pc = 9
+object code is 40976
+OP20
+RD0
+I0
+ADDR16
+RS0
+call passed 
+call16 244
+instruction passed
+ pc = 16
+object code is 1288
+OP0
+RD2
+I1
+ADDR8
+RS0
+rd 2 addr 8value8
+loadi8 34830
+instruction passed
+ pc = 17
+object code is 1792
+OP0
+RD3
+I1
+ADDR0
+RS0
+rd 3 addr 0value0
+loadi0 257
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr2
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store8 8
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat3 3
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi1 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri1 5
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe25 25
+instruction passed
+ pc = 25
+object code is 5632
+OP2
+RD3
+I0
+ADDR0
+RS0
+add30240 30240
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl60480
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load8 8
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi7 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri7 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr1
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store7 7
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe24 25
+instruction passed
+ pc = 24
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl120960
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load7 7
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi6 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri6 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store6 6
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat3 3
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi1 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri1 5
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe25 25
+instruction passed
+ pc = 25
+object code is 5632
+OP2
+RD3
+I0
+ADDR0
+RS0
+add151200 120960
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl241920
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load6 6
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi5 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri5 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store5 5
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe24 25
+instruction passed
+ pc = 24
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl483840
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load5 5
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi4 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri4 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store4 4
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe24 25
+instruction passed
+ pc = 24
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl967680
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load4 4
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi3 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri3 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store3 3
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe24 25
+instruction passed
+ pc = 24
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl1935360
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load3 3
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi2 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri2 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store2 2
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe24 25
+instruction passed
+ pc = 24
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl3870720
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load2 2
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi1 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri1 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store1 1
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe24 25
+instruction passed
+ pc = 24
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl7741440
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load1 1
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi0 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri0 4
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg31 18
+instruction passed
+ pc = 31
+object code is 3874
+OP1
+RD3
+I1
+ADDR34
+RS0
+store151200 151200
+instruction passed
+ pc = 32
+object code is 43008
+OP21
+RD0
+I0
+ADDR0
+RS0
+return2
+instruction passed
+ pc = 10
+object code is 34
+OP0
+RD0
+I0
+ADDR34
+RS0
+load151200 151200
+instruction passed
+ pc = 11
+object code is 8961
+OP4
+RD1
+I1
+ADDR1
+RS0
+subi4 45568
+instruction passed
+ pc = 12
+object code is 40966
+OP20
+RD0
+I0
+ADDR6
+RS0
+call passed 
+call6 244
+instruction passed
+ pc = 6
+object code is 27393
+OP13
+RD1
+I1
+ADDR1
+RS0
+compri4 2
+instruction passed
+ pc = 7
+object code is 36878
+OP18
+RD0
+I0
+ADDR14
+RS0
+jumpe8 14
+instruction passed
+ pc = 8
+object code is 34830
+OP17
+RD0
+I0
+ADDR14
+RS0
+jumpl9 14
+instruction passed
+ pc = 9
+object code is 40976
+OP20
+RD0
+I0
+ADDR16
+RS0
+call passed 
+call16 238
+instruction passed
+ pc = 16
+object code is 1288
+OP0
+RD2
+I1
+ADDR8
+RS0
+rd 2 addr 8value8
+loadi8 34830
+instruction passed
+ pc = 17
+object code is 1792
+OP0
+RD3
+I1
+ADDR0
+RS0
+rd 3 addr 0value0
+loadi0 257
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr2
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store8 8
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe24 25
+instruction passed
+ pc = 24
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl302400
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load8 8
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi7 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri7 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr1
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store7 7
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe24 25
+instruction passed
+ pc = 24
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl604800
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load7 7
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi6 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri6 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store6 6
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat3 3
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi1 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri1 5
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe25 25
+instruction passed
+ pc = 25
+object code is 5632
+OP2
+RD3
+I0
+ADDR0
+RS0
+add604800 604800
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl1209600
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load6 6
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi5 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri5 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store5 5
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe24 25
+instruction passed
+ pc = 24
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl2419200
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load5 5
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi4 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri4 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store4 4
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe24 25
+instruction passed
+ pc = 24
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl4838400
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load4 4
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi3 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri3 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store3 3
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe24 25
+instruction passed
+ pc = 24
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl9676800
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load3 3
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi2 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri2 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store2 2
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe24 25
+instruction passed
+ pc = 24
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl19353600
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load2 2
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi1 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri1 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store1 1
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe24 25
+instruction passed
+ pc = 24
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl38707200
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load1 1
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi0 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri0 4
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg31 18
+instruction passed
+ pc = 31
+object code is 3874
+OP1
+RD3
+I1
+ADDR34
+RS0
+store604800 604800
+instruction passed
+ pc = 32
+object code is 43008
+OP21
+RD0
+I0
+ADDR0
+RS0
+return2
+instruction passed
+ pc = 10
+object code is 34
+OP0
+RD0
+I0
+ADDR34
+RS0
+load604800 604800
+instruction passed
+ pc = 11
+object code is 8961
+OP4
+RD1
+I1
+ADDR1
+RS0
+subi3 45568
+instruction passed
+ pc = 12
+object code is 40966
+OP20
+RD0
+I0
+ADDR6
+RS0
+call passed 
+call6 238
+instruction passed
+ pc = 6
+object code is 27393
+OP13
+RD1
+I1
+ADDR1
+RS0
+compri3 2
+instruction passed
+ pc = 7
+object code is 36878
+OP18
+RD0
+I0
+ADDR14
+RS0
+jumpe8 14
+instruction passed
+ pc = 8
+object code is 34830
+OP17
+RD0
+I0
+ADDR14
+RS0
+jumpl9 14
+instruction passed
+ pc = 9
+object code is 40976
+OP20
+RD0
+I0
+ADDR16
+RS0
+call passed 
+call16 232
+instruction passed
+ pc = 16
+object code is 1288
+OP0
+RD2
+I1
+ADDR8
+RS0
+rd 2 addr 8value8
+loadi8 34830
+instruction passed
+ pc = 17
+object code is 1792
+OP0
+RD3
+I1
+ADDR0
+RS0
+rd 3 addr 0value0
+loadi0 257
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr1
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store8 8
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat3 3
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi1 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri1 5
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe25 25
+instruction passed
+ pc = 25
+object code is 5632
+OP2
+RD3
+I0
+ADDR0
+RS0
+add604800 604800
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl1209600
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load8 8
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi7 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri7 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store7 7
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat3 3
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi1 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri1 5
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe25 25
+instruction passed
+ pc = 25
+object code is 5632
+OP2
+RD3
+I0
+ADDR0
+RS0
+add1814400 1209600
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl2419200
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load7 7
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi6 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri6 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store6 6
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe24 25
+instruction passed
+ pc = 24
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl4838400
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load6 6
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi5 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri5 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store5 5
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe24 25
+instruction passed
+ pc = 24
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl9676800
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load5 5
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi4 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri4 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store4 4
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe24 25
+instruction passed
+ pc = 24
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl19353600
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load4 4
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi3 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri3 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store3 3
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe24 25
+instruction passed
+ pc = 24
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl38707200
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load3 3
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi2 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri2 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store2 2
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe24 25
+instruction passed
+ pc = 24
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl77414400
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load2 2
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi1 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri1 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store1 1
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe24 25
+instruction passed
+ pc = 24
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl154828800
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load1 1
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi0 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri0 4
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg31 18
+instruction passed
+ pc = 31
+object code is 3874
+OP1
+RD3
+I1
+ADDR34
+RS0
+store1814400 1814400
+instruction passed
+ pc = 32
+object code is 43008
+OP21
+RD0
+I0
+ADDR0
+RS0
+return2
+instruction passed
+ pc = 10
+object code is 34
+OP0
+RD0
+I0
+ADDR34
+RS0
+load1814400 1814400
+instruction passed
+ pc = 11
+object code is 8961
+OP4
+RD1
+I1
+ADDR1
+RS0
+subi2 45568
+instruction passed
+ pc = 12
+object code is 40966
+OP20
+RD0
+I0
+ADDR6
+RS0
+call passed 
+call6 232
+instruction passed
+ pc = 6
+object code is 27393
+OP13
+RD1
+I1
+ADDR1
+RS0
+compri2 2
+instruction passed
+ pc = 7
+object code is 36878
+OP18
+RD0
+I0
+ADDR14
+RS0
+jumpe8 14
+instruction passed
+ pc = 8
+object code is 34830
+OP17
+RD0
+I0
+ADDR14
+RS0
+jumpl9 14
+instruction passed
+ pc = 9
+object code is 40976
+OP20
+RD0
+I0
+ADDR16
+RS0
+call passed 
+call16 226
+instruction passed
+ pc = 16
+object code is 1288
+OP0
+RD2
+I1
+ADDR8
+RS0
+rd 2 addr 8value8
+loadi8 34830
+instruction passed
+ pc = 17
+object code is 1792
+OP0
+RD3
+I1
+ADDR0
+RS0
+rd 3 addr 0value0
+loadi0 257
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr1
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store8 8
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe24 25
+instruction passed
+ pc = 24
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl3628800
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load8 8
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi7 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri7 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store7 7
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat3 3
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi1 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri1 5
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe25 25
+instruction passed
+ pc = 25
+object code is 5632
+OP2
+RD3
+I0
+ADDR0
+RS0
+add3628800 3628800
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl7257600
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load7 7
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi6 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri6 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store6 6
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe24 25
+instruction passed
+ pc = 24
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl14515200
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load6 6
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi5 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri5 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store5 5
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe24 25
+instruction passed
+ pc = 24
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl29030400
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load5 5
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi4 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri4 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store4 4
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe24 25
+instruction passed
+ pc = 24
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl58060800
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load4 4
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi3 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri3 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store3 3
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe24 25
+instruction passed
+ pc = 24
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl116121600
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load3 3
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi2 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri2 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store2 2
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe24 25
+instruction passed
+ pc = 24
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl232243200
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load2 2
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi1 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri1 2
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg18 18
+instruction passed
+ pc = 18
+object code is 23040
+OP11
+RD1
+I0
+ADDR0
+RS0
+shr0
+instruction passed
+ pc = 19
+object code is 3363
+OP1
+RD2
+I1
+ADDR35
+RS0
+store1 1
+instruction passed
+ pc = 20
+object code is 29696
+OP14
+RD2
+I0
+ADDR0
+RS0
+getstat2 2
+instruction passed
+ pc = 21
+object code is 13569
+OP6
+RD2
+I1
+ADDR1
+RS0
+andi0 1
+instruction passed
+ pc = 22
+object code is 27905
+OP13
+RD2
+I1
+ADDR1
+RS0
+compri0 8
+instruction passed
+ pc = 23
+object code is 36889
+OP18
+RD0
+I0
+ADDR25
+RS0
+jumpe24 25
+instruction passed
+ pc = 24
+object code is 32794
+OP16
+RD0
+I0
+ADDR26
+RS0
+jump26
+instruction passed
+ pc = 26
+object code is 18432
+OP9
+RD0
+I0
+ADDR0
+RS0
+shl464486400
+instruction passed
+ pc = 27
+object code is 1059
+OP0
+RD2
+I0
+ADDR35
+RS0
+load1 1
+instruction passed
+ pc = 28
+object code is 9473
+OP4
+RD2
+I1
+ADDR1
+RS0
+subi0 45568
+instruction passed
+ pc = 29
+object code is 27904
+OP13
+RD2
+I1
+ADDR0
+RS0
+compri0 4
+instruction passed
+ pc = 30
+object code is 38930
+OP19
+RD0
+I0
+ADDR18
+RS0
+jumpg31 18
+instruction passed
+ pc = 31
+object code is 3874
+OP1
+RD3
+I1
+ADDR34
+RS0
+store3628800 3628800
+instruction passed
+ pc = 32
+object code is 43008
+OP21
+RD0
+I0
+ADDR0
+RS0
+return2
+instruction passed
+ pc = 10
+object code is 34
+OP0
+RD0
+I0
+ADDR34
+RS0
+load3628800 3628800
+instruction passed
+ pc = 11
+object code is 8961
+OP4
+RD1
+I1
+ADDR1
+RS0
+subi1 45568
+instruction passed
+ pc = 12
+object code is 40966
+OP20
+RD0
+I0
+ADDR6
+RS0
+call passed 
+call6 226
+instruction passed
+ pc = 6
+object code is 27393
+OP13
+RD1
+I1
+ADDR1
+RS0
+compri1 4
+instruction passed
+ pc = 7
+object code is 36878
+OP18
+RD0
+I0
+ADDR14
+RS0
+jumpe14 14
+instruction passed
+ pc = 14
+object code is 2337
+OP1
+RD0
+I1
+ADDR33
+RS0
+store3628800 3628800
+instruction passed
+ pc = 15
+object code is 43008
+OP21
+RD0
+I0
+ADDR0
+RS0
+return2
+instruction passed
+ pc = 13
+object code is 33
+OP0
+RD0
+I0
+ADDR33
+RS0
+load3628800 3628800
+instruction passed
+ pc = 14
+object code is 2337
+OP1
+RD0
+I1
+ADDR33
+RS0
+store3628800 3628800
+instruction passed
+ pc = 15
+object code is 43008
+OP21
+RD0
+I0
+ADDR0
+RS0
+return2
+instruction passed
+ pc = 13
+object code is 33
+OP0
+RD0
+I0
+ADDR33
+RS0
+load3628800 3628800
+instruction passed
+ pc = 14
+object code is 2337
+OP1
+RD0
+I1
+ADDR33
+RS0
+store3628800 3628800
+instruction passed
+ pc = 15
+object code is 43008
+OP21
+RD0
+I0
+ADDR0
+RS0
+return2
+instruction passed
+ pc = 13
+object code is 33
+OP0
+RD0
+I0
+ADDR33
+RS0
+load3628800 3628800
+instruction passed
+ pc = 14
+object code is 2337
+OP1
+RD0
+I1
+ADDR33
+RS0
+store3628800 3628800
+instruction passed
+ pc = 15
+object code is 43008
+OP21
+RD0
+I0
+ADDR0
+RS0
+return2
+instruction passed
+ pc = 13
+object code is 33
+OP0
+RD0
+I0
+ADDR33
+RS0
+load3628800 3628800
+instruction passed
+ pc = 14
+object code is 2337
+OP1
+RD0
+I1
+ADDR33
+RS0
+store3628800 3628800
+instruction passed
+ pc = 15
+object code is 43008
+OP21
+RD0
+I0
+ADDR0
+RS0
+return2
+instruction passed
+ pc = 13
+object code is 33
+OP0
+RD0
+I0
+ADDR33
+RS0
+load3628800 3628800
+instruction passed
+ pc = 14
+object code is 2337
+OP1
+RD0
+I1
+ADDR33
+RS0
+store3628800 3628800
+instruction passed
+ pc = 15
+object code is 43008
+OP21
+RD0
+I0
+ADDR0
+RS0
+return0
+instruction passed
+ pc = 3
+object code is 33
+OP0
+RD0
+I0
+ADDR33
+RS0
+load3628800 3628800
+instruction passed
+ pc = 4
+object code is 47104
+OP23
+RD0
+I0
+ADDR0
+RS0
+instruction passed
+ pc = 5
+object code is 49152
+OP24
+RD0
+I0
+ADDR0
+RS0
+halt called exit...
+here
